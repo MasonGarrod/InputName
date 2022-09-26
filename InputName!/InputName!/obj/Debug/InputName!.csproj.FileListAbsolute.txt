@@ -1,0 +1,16 @@
+P:\Digital\VS\20mgarrod\InputName!\InputName!\obj\Debug\InputName!.csproj.AssemblyReference.cache
+P:\Digital\VS\20mgarrod\InputName!\InputName!\obj\Debug\InputName!.csproj.SuggestedBindingRedirects.cache
+P:\Digital\VS\20mgarrod\InputName!\InputName!\obj\Debug\InputName!.csproj.CoreCompileInputs.cache
+P:\Digital\VS\20mgarrod\InputName!\InputName!\bin\Debug\InputName!.exe.config
+P:\Digital\VS\20mgarrod\InputName!\InputName!\bin\Debug\InputName!.exe
+P:\Digital\VS\20mgarrod\InputName!\InputName!\bin\Debug\InputName!.pdb
+P:\Digital\VS\20mgarrod\InputName!\InputName!\obj\Debug\InputName!.exe
+P:\Digital\VS\20mgarrod\InputName!\InputName!\obj\Debug\InputName!.pdb
+C:\Users\44771\Desktop\InputName!\InputName!\bin\Debug\InputName!.exe.config
+C:\Users\44771\Desktop\InputName!\InputName!\bin\Debug\InputName!.exe
+C:\Users\44771\Desktop\InputName!\InputName!\bin\Debug\InputName!.pdb
+C:\Users\44771\Desktop\InputName!\InputName!\obj\Debug\InputName!.csproj.AssemblyReference.cache
+C:\Users\44771\Desktop\InputName!\InputName!\obj\Debug\InputName!.csproj.SuggestedBindingRedirects.cache
+C:\Users\44771\Desktop\InputName!\InputName!\obj\Debug\InputName!.csproj.CoreCompileInputs.cache
+C:\Users\44771\Desktop\InputName!\InputName!\obj\Debug\InputName!.exe
+C:\Users\44771\Desktop\InputName!\InputName!\obj\Debug\InputName!.pdb
